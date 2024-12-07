@@ -1,4 +1,4 @@
-"""Retrieving infromation from events provider's API"""
+"""Retrieving infromation from eventbrite's API"""
 import requests
 import time
 from config import EVENT_API_URL

@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 目标URL
-url = "https://sessions.studentlife.umich.edu/list?sort=s.dateStart&direction=asc&page=3"
+url = "https://bookings.lib.msu.edu/calendar/events/?cid=3079&t=g&d=0000-00-00&cal=3079&inc=0"
 headers = {"User-Agent": "Mozilla/5.0"}
 
 # 使用 certifi 路径
