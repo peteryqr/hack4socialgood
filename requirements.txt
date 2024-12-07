@@ -1,0 +1,23 @@
+# HTTP requests for interacting with APIs
+requests
+
+# OpenAI's GPT API
+openai
+
+# Optional: For managing and parsing configurations
+python-dotenv
+
+# Optional: For JSON processing (usually included in the standard library, but kept here for clarity)
+simplejson
+
+# Optional: For type checking and linting (helpful during development)
+mypy
+
+# Optional: For code formatting (to maintain a clean codebase)
+black
+
+# Optional: For linting and identifying code issues
+flake8
+
+# Optional: For testing (if you plan to write tests for your program)
+pytest
